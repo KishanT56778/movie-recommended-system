@@ -23,7 +23,7 @@ A machine learning project that recommends movies based on user preferences usin
 - ✅ MovieLens Dataset
   - `movies.csv` - movie title and genres
   - `ratings.csv` - user ratings
-- Dataset Source: [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/)
+  
 
 ## 🛠️ Installation & Run
 
